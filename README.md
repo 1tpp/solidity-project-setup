@@ -1,3 +1,1 @@
 # Solidity Project
-
-project setup
